@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cidaluna (IT Analyst)
 - 🇧🇷  I'm from Brazil.
-- 👀 I’m interested in learning Java, Python, Data Science...
+- 👀 I’m interested in learning Mobile App Development.
 - 💞️ I work at Santander, where there is a flexible environment focused on diversity and inclusion.
 - 📫 My email: cidalunna@hotmail.com
 
