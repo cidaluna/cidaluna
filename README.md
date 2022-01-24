@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @cidaluna (IT Analyst)
+- 👋 Hi, I’m @cidaluna (IT Analyst).
 - 🇧🇷  I'm from Brazil.
-- 👀 I’m interested in learning Java.
-- 💞️ I work at Santander, where there is a flexible environment focused on diversity and inclusion.
+- 👀 I've been learning Java and Typescript.
+- 💞️ I work at F1RST (Santander Tech), where there is a flexible environment focused on diversity and inclusion.
 - 📫 My email: cidalunna@hotmail.com
 
 <!---
