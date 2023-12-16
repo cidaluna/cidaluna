@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cidaluna (IT Developer).
 - 🇧🇷  I'm from Brazil.
 - 👀 I've been learning Java, Typescript and SQL.
-- 💞️ I worked at F1RST (Santander Tech), where there is a flexible environment focused on diversity and inclusion.
+- 💞️ I worked at F1RST (Santander Bank), where there is a flexible environment focused on diversity and inclusion.
 - 📫 My email: cidalunna@hotmail.com
 
 <!---
