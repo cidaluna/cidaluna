@@ -1,7 +1,7 @@
 ## Welcome! Seja bem vindo(a) ao meu perfil. 👋
 
 - 👩‍🎓 Hi, I’m Cida. Nice to meet you! 
-- 🇧🇷  Brazilian, living in São Carlos, SP.
+- 🏡 Brazilian, living in São Carlos, SP.
 - 📚 I've been focusing on learning Typescript, SQL and good programming practices.
 - 💞️ I worked at Santander, where there was a flexible environment focused on diversity and inclusion. I worked in the Pix team (Pix is the Brazilian instant payment ecosystem) with Angular 8, 12, and I also worked in the Risk and Regulatory Data team with Oracle PL/SQL.
 - 🤝 If you have interesting in a Front-end Developer into your projects please contact me, I am available to new projects and new opportunities.
