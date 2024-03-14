@@ -27,14 +27,14 @@
   <img loading="lazy" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Joomla" src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Magento" src="https://img.shields.io/badge/magento-%23EE672F.svg?&style=for-the-badge&logo=magento&logoColor=white" target="_blank"/>
-</div><br>
+</div>
 
 ### Backend:
 <div>
   <img loading="lazy" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" target="_blank"/>
-</div><br>
+</div>
 
 ### Design:
 <div>
@@ -42,14 +42,14 @@
   <img loading="lazy" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"/>
-</div><br>
+</div>
 
 ### Version Control:
 <div>
   <img loading="lazy" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"/>
-</div><br>
+</div>
 
 ### Databases:
 <div>
@@ -58,7 +58,7 @@
   <img loading="lazy" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" target="_blank"/>
   <img loading="lazy" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"/>
-</div><br>
+</div>
 
 ### Cloud:
 <div>
@@ -67,7 +67,7 @@
   <img loading="lazy" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" target="_blank"/>
-</div><br>
+</div>
 
 ### ETL/Pipeline/BI/Tools:
 <div>
