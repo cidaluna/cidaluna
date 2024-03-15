@@ -40,6 +40,7 @@
 <div>
   <img loading="lazy" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-9999ff.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"/>
 </div>
@@ -58,6 +59,7 @@
   <img loading="lazy" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" target="_blank"/>
   <img loading="lazy" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-DAE3F4.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=red" target="_blank"/>
 </div>
 
 ### Cloud:
@@ -75,6 +77,7 @@
   <img loading="lazy" alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" target="_blank"/>
   <img loading="lazy" alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Alteryx" src="https://img.shields.io/badge/Alteryx-%23326ce5.svg?style=for-the-badge&logo=Alteryx&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" target="_blank"/>
 </div><br>
 
