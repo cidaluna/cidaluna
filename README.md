@@ -12,54 +12,54 @@
 
 ### Frontend:
 <div>
-  <img loading="lazy" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank"/>
-  <img loading="lazy" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="EsLint" src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Cypress" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" target="_blank"/>
-  <img loading="lazy" alt="Jasmine" src="https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Joomla" src="https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Magento" src="https://img.shields.io/badge/magento-%23EE672F.svg?&style=for-the-badge&logo=magento&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="HTML5" src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="CSS3" src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="JavaScript" src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="TypeScript" src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-black?style=for-the-badge&logo=tailwind-css&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-black?style=for-the-badge&logo=bootstrap&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="NodeJS" src="https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node-dot-js&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="SASS" src="https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=SASS&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="RxJS" src="https://img.shields.io/badge/rxjs-black?style=for-the-badge&logo=reactivex&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="EsLint" src="https://img.shields.io/badge/ESLint-black?style=for-the-badge&logo=eslint&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Cypress" src="https://img.shields.io/badge/-cypress-black?style=for-the-badge&logo=cypress&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Jasmine" src="https://img.shields.io/badge/jasmine-black?style=for-the-badge&logo=jasmine&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Angular" src="https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Joomla" src="https://img.shields.io/badge/joomla-black?style=for-the-badge&logo=joomla&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Magento" src="https://img.shields.io/badge/magento-black?&style=for-the-badge&logo=magento&logoColor=white" target="_blank"/>
 </div>
 
 ### Backend:
 <div>
-  <img loading="lazy" alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="C" src="https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Java" src="https://img.shields.io/badge/java-black?style=for-the-badge&logo=java&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Spring" src="https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&logoColor=white" target="_blank"/>
 </div>
 
 ### Design:
 <div>
-  <img loading="lazy" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-9999ff.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Sketch" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Adobe Photoshop" src="https://img.shields.io/badge/adobephotoshop-black?style=for-the-badge&logo=adobephotoshop&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Adobe Illustrator" src="https://img.shields.io/badge/adobeillustrator-black?style=for-the-badge&logo=adobeillustrator&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-black?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Sketch" src="https://img.shields.io/badge/Canva-black?style=for-the-badge&logo=Canva&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Figma" src="https://img.shields.io/badge/figma-black?style=for-the-badge&logo=figma&logoColor=white" target="_blank"/>
 </div>
 
 ### Version Control:
 <div>
-  <img loading="lazy" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Git" src="https://img.shields.io/badge/git-black?style=for-the-badge&logo=git&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="GitHub" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="GitLab" src="https://img.shields.io/badge/GitLab-black?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"/>
 </div>
 
 ### Databases:
 <div>
-  <img loading="lazy" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Oracle PL/SQL" src="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" target="_blank"/>
-  <img loading="lazy" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-DAE3F4.svg?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=red" target="_blank"/>
+  <img loading="lazy" alt="MySQL" src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Oracle PL/SQL" src="https://img.shields.io/badge/oracle-black?style=for-the-badge&logo=oracle&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Postgres" src="https://img.shields.io/badge/postgres-black?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Firebase" src="https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-black?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white" target="_blank"/>
 </div>
 
 ### Cloud:
@@ -77,7 +77,7 @@
   <img loading="lazy" alt="Jenkins" src="https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Power BI" src="https://img.shields.io/badge/power_bi-black?style=for-the-badge&logo=powerbi&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="Shell Script" src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Alteryx" src="https://img.shields.io/badge/Alteryx--black?style=for-the-badge&logo=Alteryx&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Alteryx" src="https://img.shields.io/badge/Alteryx-black?style=for-the-badge&logo=Alteryx&logoColor=white" target="_blank"/>
   <img loading="lazy" alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=white" target="_blank"/>
 </div><br>
 
