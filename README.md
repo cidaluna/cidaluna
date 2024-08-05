@@ -64,21 +64,21 @@
 
 ### Cloud:
 <div>
-  <img loading="lazy" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Docker" src="https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-black?style=for-the-badge&logo=kubernetes&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="AWS" src="https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-black?style=for-the-badge&logo=google-cloud&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Azure" src="https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure-devops&logoColor=white" target="_blank"/>
 </div>
 
 ### ETL/Pipeline/BI/Tools:
 <div>
-  <img loading="lazy" alt="Informatica PowerCenter" src="https://img.shields.io/badge/informatica-%23FF4D00.svg?&style=for-the-badge&logo=informatica&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" target="_blank"/>
-  <img loading="lazy" alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="Alteryx" src="https://img.shields.io/badge/Alteryx-%23326ce5.svg?style=for-the-badge&logo=Alteryx&logoColor=white" target="_blank"/>
-  <img loading="lazy" alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" target="_blank"/>
+  <img loading="lazy" alt="Informatica PowerCenter" src="https://img.shields.io/badge/informatica-black?&style=for-the-badge&logo=informatica&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Jenkins" src="https://img.shields.io/badge/jenkins-black?style=for-the-badge&logo=jenkins&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Power BI" src="https://img.shields.io/badge/power_bi-black?style=for-the-badge&logo=powerbi&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Shell Script" src="https://img.shields.io/badge/shell_script-black?style=for-the-badge&logo=gnu-bash&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="Alteryx" src="https://img.shields.io/badge/Alteryx--black?style=for-the-badge&logo=Alteryx&logoColor=white" target="_blank"/>
+  <img loading="lazy" alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=white" target="_blank"/>
 </div><br>
 
 ### GitHub Stats
