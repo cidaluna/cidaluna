@@ -3,10 +3,10 @@
 - 👩‍💼 Olá, eu sou a Cida Luna.
 - 🏡 Moro em São Carlos, São Paulo – Brasil.  
 - 🎓 Graduada em Análise e Desenvolvimento de Sistemas (IFSP) com especialização em Banco de Dados (UNICAMP).  
-- 💻 Desenvolvedora Front-end Web, atualmente na **Serasa Experian**, com Angular 18.  
-- 🏦 Atuei no **Grupo Santander**, com Angular 12+ no time do Pix.  
+- 💻 Desenvolvedora Frontend na **Serasa Experian**, atuando na construção de aplicações Web com Angular 18, com foco no fluxo de relatórios e na experiência do usuário.  
+- 🏦 Atuação no time Pix do Grupo Santander, desenvolvendo aplicações Frontend com Angular 12, com foco na jornada de gestão de horários.  
 - 📚 Estudo contínuo de boas práticas de programação, com foco em **TypeScript**, **Java**, **SQL** e **Clean Code**.  
-- 🤝 Aberta a novos projetos e oportunidades como **Desenvolvedora Front-end** ou **Desenvolvedora ETL**.  
+- 🤝 Aberta a novos projetos e oportunidades como **Desenvolvedora Frontend** ou **Desenvolvedora ETL**.  
 
 ---
 
