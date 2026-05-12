@@ -97,10 +97,6 @@
   <img loading="lazy" alt="SonarQube" src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=white" target="_blank"/>
 </div><br>
 
-### GitHub Stats
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=cidaluna&show_icons=true&locale=pt-BR" alt="cidaluna" /> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cidaluna&show_icons=true&locale=pt-BR&layout=compact" alt="cidaluna" /></p>
-<br>
 
 <!---cidaluna/cidaluna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
