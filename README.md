@@ -12,14 +12,14 @@
 
 ### 🚀 Experiência e Tecnologias
 
-- 🌐 Desenvolvimento de **aplicações web** com HTML5, CSS3, JavaScript e TypeScript  
-- 🧩 **Componentização**, reuso de código e arquitetura escalável com Angular 18  
-- 🎨 Conhecimentos em **UX/UI**, responsividade, Angular Material e Styled Components  
+- 🌐 Desenvolvimento de **aplicações web** com HTML5, CSS3, SCSS, JavaScript e TypeScript  
+- 🧩 **Componentização**, reuso de código e arquitetura escalável com Angular 17+  
+- 🎨 Conhecimentos em **UX/UI**, responsividade, Angular Material, acessibilidade e práticas Clean Code
 - 🔗 Integração com **APIs RESTful**, autenticação via JWT, consumo com HttpClient  
-- ⚡ Utilização de **RxJS** para manipulação reativa de dados  
+- ⚡ Utilização de **RxJS** para manipulação reativa de dados, **NGXS** para controle de estado
 - 🧪 Testes com **Jasmine/Karma**, **Jest** e **Cypress** (E2E)  
 - 🚦 Roteamento dinâmico, Lazy Loading, otimização com Webpack e **Micro Frontends**  
-- ⚙️ CI/CD com GitHub Actions, DevSecOps e práticas de **segurança contínua**
+- ⚙️ CI/CD com GitHub Actions, DevSecOps e monitoramento com **DataDog**
 - 📅 Metodologias ágeis: **Scrum** e **Kanban**, com versionamento via Git/GitHub/GitLab/BitBucket 
 - 📫 Mande uma mensagem no meu perfil [![Linkedin Badge](https://img.shields.io/badge/-AparecidaLuna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aparecidaluna/)](https://www.linkedin.com/in/aparecidaluna/)
 <br>
