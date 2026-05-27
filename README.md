@@ -18,8 +18,8 @@
 - 🔗 Integração com **APIs RESTful**, autenticação via JWT, consumo com HttpClient  
 - ⚡ Utilização de **RxJS** para manipulação reativa de dados, **NGXS** para controle de estado
 - 🧪 Testes com **Jasmine/Karma**, **Jest** e **Cypress** (E2E)  
-- 🚦 Roteamento dinâmico, Lazy Loading, otimização com Webpack e **Micro Frontends**  
-- ⚙️ CI/CD com GitHub Actions, DevSecOps e monitoramento com **DataDog**
+- 🚦 Lazy Loading, otimização com Webpack e **Micro Frontends**, tagueamento com o **Adobe Analytics**
+- ⚙️ CI/CD com GitHub Actions, DevSecOps, monitoramento com **DataDog** e análise de vulnerabilidades com **Checkmarx**
 - 📅 Metodologias ágeis: **Scrum** e **Kanban**, com versionamento via Git/GitHub/GitLab/BitBucket 
 - 📫 Mande uma mensagem no meu perfil [![Linkedin Badge](https://img.shields.io/badge/-AparecidaLuna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aparecidaluna/)](https://www.linkedin.com/in/aparecidaluna/)
 <br>
